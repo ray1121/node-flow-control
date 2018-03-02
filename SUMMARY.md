@@ -14,6 +14,6 @@
     * [2.3 终极解决方案 async](note/base/一个Promise的问题.md)
         * [2.3.1 一个 Promise 的问题](note/base/一个Promise的问题.md)
 * [3. 实践篇](note/practice/面对的情况思路.md)
-    * [3.1 面对的情况思路](note/practice/面对的情况思路.md)
+    * [3.1 面对的情况与思路](note/practice/面对的情况与思路.md)
 * [4. 总结与感想](note/practice/总结.md)
 
