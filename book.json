@@ -1,0 +1,32 @@
+{
+    "title": "node-flow-control",
+    "description": "从'async'到async异步流程实践与总结",
+    "author": "ray",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "root": ".",
+    "links": {
+        "sidebar": {
+            "Home": "https://isliulei.com"
+        }
+    },
+    "plugins": [
+        "github",
+        "github-buttons"
+    ],
+
+    "pluginsConfig": {       
+        "github": {
+            "url": "https://github.com/ray1121/node-flow-control"
+        },
+        "github-buttons": {
+            "repo": "ray1121/node-flow-control",
+            "types": [
+                "star",
+                "watch",
+                "fork"
+            ],
+            "size": "small"
+        }
+    }
+}
