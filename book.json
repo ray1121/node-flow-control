@@ -5,6 +5,9 @@
     "language": "zh-hans",
     "gitbook": "3.2.3",
     "root": ".",
+    "structure": {
+        "readme": "README.md"
+    },
     "links": {
         "sidebar": {
             "Home": "https://isliulei.com"
@@ -27,6 +30,6 @@
                 "fork"
             ],
             "size": "small"
-        }
+        }       
     }
 }
